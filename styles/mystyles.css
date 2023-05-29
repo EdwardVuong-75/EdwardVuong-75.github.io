@@ -7,6 +7,10 @@
 p {
 	color: black;
 }
+img {
+	width: 200px;
+	height: auto;
+}
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
