@@ -4,6 +4,9 @@
           Times, serif;
 		  color: purple;
     background-color: #FFFFFF }
+p {
+	color: black;
+}
 	 ul.navbar {
     list-style-type: none;
     padding: 0;
